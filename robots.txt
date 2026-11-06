@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sherif-eissa.github.io/dr-shrief-safena.github.io/sitemap.xml
